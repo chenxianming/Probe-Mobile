@@ -24,4 +24,6 @@ or
     
 # download link
 
-comming soon
+[android](http://www.prettymusic.cn/probemobile.apk)
+
+ios - building
