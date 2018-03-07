@@ -1,7 +1,7 @@
 # Probe-Mobile
 High Concurrency request for mobile.
 
-Concurrency test tool cross android/ios platform
+- Http API Concurrency test tool cross android/ios platform
 
 ![probemobile](http://www.coldnoir.com/probemobile.gif)
 
@@ -24,6 +24,6 @@ or
     
 # download link
 
-[android](http://www.prettymusic.cn/probemobile.apk)
+[android](http://www.coldnoir.com/probemobile.apk)
 
 ios - building
